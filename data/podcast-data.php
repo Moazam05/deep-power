@@ -8,6 +8,102 @@ $videos = [
         'scope' => "public"
     ],
     [
+        'title' => "The more A.I. we use, the more electricity is needed.",
+        'videoID' => "05qDncm_bJM",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Unleash the Earth's natural heat for clean, reliable energy.",
+        'videoID' => "76qDQclZ6mg",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Powering AI's Future",
+        'videoID' => "0ntZWs_ejJM",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Geothermal energy offers a sustainable and reliable solution",
+        'videoID' => "Ho1ZN4QWxLY",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "DeepPower's 'X Drill' is set to meet the surging electricity needs of our streaming-dominated world",
+        'videoID' => "jN3gIUxvOQA",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Our 'X Drill' revolutionizes geothermal energy access",
+        'videoID' => "qyNaNZGzGIw",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "The Ring of Fire",
+        'videoID' => "-cDIBC-bDV8",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Other green energy solutions require lots of land mass",
+        'videoID' => "Z4rRVVbGYnI",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "We are here to show the world the power we need is beneath",
+        'videoID' => "SMCNC3P8M2w",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Geothermal Energy and Steel Production",
+        'videoID' => "P3S1JPnOGU4",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Paper Production and Geothermal Energy",
+        'videoID' => "kLJHgOfJinM",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Geothermal Energy and Cement Production",
+        'videoID' => "AndxrlYfdvQ",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Geothermal energy is the future!",
+        'videoID' => "3WzVdRRZJGI",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "You must know what is going on with geothermal today!",
+        'videoID' => "udrXVrX4HdQ",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "DeepPower's breakthrough drill ventures into new depths",
+        'videoID' => "TU8eMKPu7cs",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
+        'title' => "Digging into the Future",
+        'videoID' => "AkUG02k0Ru0",
+        'category' => "short-video",
+        'scope' => "public"
+    ],
+    [
         'title' => "Unlocking Earth's inner heat",
         'videoID' => "kuhtGJ5k3Rk",
         'category' => "short-video",
